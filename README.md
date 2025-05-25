@@ -9,7 +9,7 @@
 - 🎨 At the same time, I enjoy frontend development — turning ideas into interactive, user-friendly interfaces.
 - 🌱 I love learning. Each layer of the stack brings its own excitement — from database optimization to crafting smooth user experiences.
 - 💞️ I'm looking to collaborate on open-source projects, internships, or freelance opportunities involving web systems and real-time applications.
-- 📫 Reach me via [Email](mailto:dieglevel@gmail.com) or connect on [Facebook](https://www.facebook.com/pam2906)
+- 📫 Reach me via dieglevel@gmail.com or connect on [Facebook](https://www.facebook.com/pam2906)
 - 😄 Pronouns: He/Him
 
 ---
