@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Phùng Anh Minh (dieglevel)
+# 👋 Hi there! I'm Phung Anh Minh (dieglevel)
 
 💻 Software Engineer | Backend & Frontend Developer  
 
